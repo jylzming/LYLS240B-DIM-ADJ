@@ -1,0 +1,11 @@
+*.wed
+*.txt
+*.dep
+*.spy
+*.pdg
+*.mak
+*.xml
+./Debug
+./Release
+./photocontrol_Programmer
+
